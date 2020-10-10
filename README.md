@@ -15,7 +15,7 @@ I’m a Frontend Engineer. I love building applications using JavaScript Stacks(
 
 ### Connect with me
 
-[<img align="left" alt="codeSTACKr.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://haarika-portfolio.netlify.app/)
 [<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/haarikakota)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/haarikakota)
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/haarikakota)
