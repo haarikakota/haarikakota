@@ -2,8 +2,7 @@
 
 ### Hi, I'm Harika 👋
 
-I’m a Frontend Engineer. I love building applications using JavaScript Stacks(JAM & MERN). Occational Blogger. I am currently working as a Software Applications Developer at Innomax IT Solutions.
-
+I’m a Frontend Engineer. I love building applications using JavaScript Stacks(JAM & MERN). Occational Blogger. I am currently working as a Software Applications Developer.
 - 👨‍💻  I’m currently working.
 - 🤓 I’m currently learning Next.js.
 - 💬  Ask me about Angular, React, Node.js & JavaScript.
