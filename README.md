@@ -4,9 +4,9 @@
 
 I’m a Frontend Engineer. I love building applications using JavaScript Stacks(JAM & MERN). Occational Blogger. I am currently working as a Software Applications Developer at Innomax IT Solutions.
 
-- 👨‍💻  I’m currently working for client Innomax.
+- 👨‍💻  I’m currently working.
 - 🤓 I’m currently learning Next.js.
-- 💬  Ask me about React, Node.js & JavaScript.
+- 💬  Ask me about Angular, React, Node.js & JavaScript.
 - 📫  How to reach me: harikakota@hotmail.com or Twitter [@haarikakota](https://twitter.com/haarikakota)
 - 😄  Pronouns: she/her
 - ⚡  Fun fact: I love mentoring students who are interested to become a web developer.
