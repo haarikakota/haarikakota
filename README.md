@@ -1,8 +1,7 @@
 <img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
 
 ### Hi, I'm Harika 👋
-
-I’m a Senior Software Engineer. I love building applications using JavaScript Stacks(JAM & MERN). Occational Blogger. I am currently working as a Software Applications Developer.
+- Senior Software Engineer with over 6+ years of hands-on experience in building, enhancing, and deploying robust enterprise applications using .NET, React, and Oracle DBMS. Recognized for writing clean, maintainable, and performance-optimized code with a strong emphasis on user experience, scalability, and data accuracy. Proven expertise in full-stack development, system integration, and modernizing legacy systems. Adept at working in agile environments and collaborating across cross-functional teams to deliver impactful digital solutions.
 - 🤓 Currently enhancing technical toolkit through the study of Artificial Intelligence and Machine Learning to automate data workflows and predictive analytics..
 - 💬  Ask me about .NET, .NET Core, Oracle DB, My SQL, Power BI, JQuery, Angular, React, Node.js, JavaScript.
 - 📫  How to reach me: harikakota@hotmail.com or Twitter [@haarikakota](https://twitter.com/haarikakota)
