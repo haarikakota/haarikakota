@@ -37,9 +37,3 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-
----
-
-<img width="400" src="https://github-readme-stats.gopibabus.vercel.app/api?username=haarikakota&show_icons=true"/>
-<br>
-<img width="400" src="https://github-readme-stats.gopibabus.vercel.app/api/top-langs/?username=haarikakota&layout=compact"/>
