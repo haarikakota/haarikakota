@@ -2,10 +2,9 @@
 
 ### Hi, I'm Harika 👋
 
-I’m a Frontend Engineer. I love building applications using JavaScript Stacks(JAM & MERN). Occational Blogger. I am currently working as a Software Applications Developer.
-- 👨‍💻  I’m currently working.
-- 🤓 I’m currently learning Next.js.
-- 💬  Ask me about Angular, React, Node.js & JavaScript.
+I’m a Senior Software Engineer. I love building applications using JavaScript Stacks(JAM & MERN). Occational Blogger. I am currently working as a Software Applications Developer.
+- 🤓 Currently enhancing technical toolkit through the study of Artificial Intelligence and Machine Learning to automate data workflows and predictive analytics..
+- 💬  Ask me about .NET, .NET Core, Oracle DB, My SQL, Power BI, JQuery, Angular, React, Node.js, JavaScript.
 - 📫  How to reach me: harikakota@hotmail.com or Twitter [@haarikakota](https://twitter.com/haarikakota)
 - 😄  Pronouns: she/her
 - ⚡  Fun fact: I love mentoring students who are interested to become a web developer.
